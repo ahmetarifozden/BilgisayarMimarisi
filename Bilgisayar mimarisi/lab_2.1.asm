@@ -20,8 +20,9 @@ addi $v0, $zero, 5
 syscall
 add $t2, $v0, $zero
 
-beq $t1, $t2, esit
-j karsilastirma
+beq $t1, $t2, esit #t1 ile t2 eşit işe esite giriyor
+j karsilastirma #değilse karsilaştırma giriyor 
+#bne de ise eşit değilse eşit e giriyor değilse altındaki alana giriyor
 
 
 
@@ -34,8 +35,8 @@ addi $v0, $zero, 10
 syscall
  
 karsilastirma:
-slt $t0, $t1, $t2  
-beq $t0, $zero, birinci
+slt $t0, $t1, $t2  #t2 t1 den büyükse t0 a 1 değeri atıyor değilse 0 değerini atıyor
+beq $t0, $zero, birinci #to değeri 0 dan büyükse birinci fonksiyonuna gider 0 a eşitse ikinci fonksiyonuna gider
 j ikinci
 
 birinci:
