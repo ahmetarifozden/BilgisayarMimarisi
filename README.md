@@ -4,8 +4,11 @@ saklamak için oluşturulmuştur. Ders süresince yazdığım assembly dili kodl
 çözdüğüm ödevleri burada bulabilirsiniz.
 
 1: Basit Assembly Kodları
+
 2: İşlemci Mimarisi Analizi
+
 3: Bellek Yönetimi
+
 İleri Seviye Assembly Uygulaması
 
 Bu depo, bilgisayar mimarisi dersinde öğrendiğim konuları pekiştirmek ve ileri seviyede
