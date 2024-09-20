@@ -1,7 +1,7 @@
 .data
 .align 2
 YENI_DIZI: .space 48
-DIZI:	.word 2, 0, -4, -16, 0, 1, -8, -10, 0, 2, -3, 11
+DIZI:	.word 2, 0, -4, 16, 0, 1, -8, -10, 0, 2, -3, 11
 msg1: .asciiz "Yeni dizi elemanlar?:  "
 msg2: .asciiz "   "
 
