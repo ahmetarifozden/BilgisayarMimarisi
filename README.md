@@ -1,4 +1,4 @@
-# Bilgisayar Mimarisi Dersi Ödevleri
+# Bilgisayar Mimarisi 
 
 Bu depo, Bilgisayar Mimarisi dersi boyunca öğrendiğim konuları pekiştirmek ve ödevlerimi düzenli bir şekilde saklamak amacıyla oluşturulmuştur. Ders kapsamında yazdığım assembly dili kodları ve çözdüğüm ödevler burada derlenmiştir. 
 
