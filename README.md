@@ -16,10 +16,6 @@ Bu depo, Bilgisayar Mimarisi dersi boyunca öğrendiğim konuları pekiştirmek 
    - Bellek yönetimi üzerine yaptığım çalışmaları ve ödevleri içerir. 
    - Bellek hiyerarşisi, bellek adresleme yöntemleri ve bellek yönetim teknikleri hakkında yazdığım açıklayıcı notlar ve örnek kodlar burada bulunmaktadır.
 
-4. **İleri Seviye Assembly Uygulamaları**
-   - Bu bölüm, ileri düzey assembly uygulamaları geliştirmek için kullanılacaktır. 
-   - Karmaşık algoritmaların assembly dilinde nasıl uygulanabileceği üzerine projeler yer alacaktır. 
-   - Her proje, belirli bir problemi çözmeyi hedeflerken, kodların verimliliği ve optimizasyon teknikleri üzerine odaklanılacaktır.
 
 ## Katkılar
 
