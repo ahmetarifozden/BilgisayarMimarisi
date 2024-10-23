@@ -8,11 +8,7 @@ Bu depo, Bilgisayar Mimarisi dersi boyunca öğrendiğim konuları pekiştirmek 
    - Bu bölümde, temel assembly dili kod örnekleri yer almaktadır. Bu örnekler, işlemcinin temel işlevlerini anlamak ve dilin sözdizimini öğrenmek için tasarlanmıştır.
    - Kodlar, farklı işlemci mimarilerine uygun olarak yazılmıştır ve açıklamalarla desteklenmiştir.
 
-2. **İşlemci Mimarisi Analizi**
-   - Bu bölümde, farklı işlemci mimarilerinin yapısal analizi ve karşılaştırması bulunmaktadır. 
-   - Ödevlerim ve projelerim aracılığıyla, çeşitli işlemci tasarımlarının performansını ve verimliliğini inceleyen detaylı raporlar mevcuttur.
-
-3. **Bellek Yönetimi**
+2. **Bellek Yönetimi**
    - Bellek yönetimi üzerine yaptığım çalışmaları ve ödevleri içerir. 
    - Bellek hiyerarşisi, bellek adresleme yöntemleri ve bellek yönetim teknikleri hakkında yazdığım açıklayıcı notlar ve örnek kodlar burada bulunmaktadır.
 
